@@ -18,4 +18,4 @@ fatal: index-pack failed
 那么：把http://改成git://,如下
 git clone git://github.com/buppt/ChineseNER.git
 
-5.怎么在mac上切换python 2.7 和 3.6
+5.如果有一个包怎么都无法跟环境兼容(版本不匹配之类的),那么重新写一个函数替代掉这个加载这个包要使用的函数就好了。
