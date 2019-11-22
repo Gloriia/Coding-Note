@@ -17,3 +17,5 @@ fatal: early EOF
 fatal: index-pack failed
 那么：把http://改成git://,如下
 git clone git://github.com/buppt/ChineseNER.git
+
+5.怎么在mac上切换python 2.7 和 3.6
