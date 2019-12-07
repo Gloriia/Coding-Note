@@ -26,4 +26,4 @@ https://www.cnblogs.com/zoe233/p/6984553.html?utm_source=itdadao&utm_medium=refe
 7.报错：
 SyntaxError: Non-ASCII character '\xe6' in file classification.py on line 7, but no encoding declared; 
 在首行加上，
-# encoding: utf-8
+“# encoding: utf-8”
