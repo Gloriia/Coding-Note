@@ -19,3 +19,11 @@ fatal: index-pack failed
 git clone git://github.com/buppt/ChineseNER.git
 
 5.如果有一个包怎么都无法跟环境兼容(版本不匹配之类的),那么重新写一个函数替代掉这个加载这个包要使用的函数就好了。
+
+6.pycharm设置encoding,应对某些文件中的数据读取乱码：
+https://www.cnblogs.com/zoe233/p/6984553.html?utm_source=itdadao&utm_medium=referral
+
+7.报错：
+SyntaxError: Non-ASCII character '\xe6' in file classification.py on line 7, but no encoding declared; 
+在首行加上，
+# encoding: utf-8
