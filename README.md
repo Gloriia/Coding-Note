@@ -27,3 +27,9 @@ https://www.cnblogs.com/zoe233/p/6984553.html?utm_source=itdadao&utm_medium=refe
 SyntaxError: Non-ASCII character '\xe6' in file classification.py on line 7, but no encoding declared; 
 在首行加上，
 “# encoding: utf-8”
+
+8.GPU资源
+易学智能: 淘宝店 国科机房
+sftp:
+put -r 文件夹
+get -r 文件夹
